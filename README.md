@@ -20,7 +20,7 @@ Created a responsive coffee shop landing page, **Brew Haven Coffee**, using HTML
 ## Screenshots
 
 ### Home Page
-![Home-Page](home-page.png)
+![Home-Page](Task1/home-page.png)
 
 ### About 
-![About](About.png)
+![About](Task1/About.png)
