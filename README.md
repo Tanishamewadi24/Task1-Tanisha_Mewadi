@@ -12,3 +12,7 @@ Created a responsive coffee shop landing page, **Brew Haven Coffee**, using HTML
 * Consistent coffee-themed colour palette and typography
 * Responsive layout using CSS Flexbox and media queries
 * Hover effects, spacing, shadows, and rounded UI elements for a polished design
+
+## Technologies: 
+* HTML5
+* CSS3
