@@ -16,3 +16,11 @@ Created a responsive coffee shop landing page, **Brew Haven Coffee**, using HTML
 ## Technologies: 
 * HTML5
 * CSS3
+  
+## Screenshots
+
+### Home Page
+![Home-Page](home-page.png)
+
+### About 
+![About](About.png)
